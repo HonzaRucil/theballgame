@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+LocalDerivedDataCache/*
+
+# Helper files used during development
+.dev/*
